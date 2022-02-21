@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1645460829 source:c:\users\lenovo\documents\february 1\credit1\main.c
+	"cs50.h"
+	<stdio.h>
+	<stdlib.h>
+
+1606628037 c:\users\lenovo\documents\february 1\credit1\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
+1606628037 source:c:\users\lenovo\documents\february 1\credit1\cs50.c
+	<ctype.h>
+	<errno.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
